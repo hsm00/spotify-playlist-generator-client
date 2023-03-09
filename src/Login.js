@@ -8,7 +8,7 @@ import { useLoader } from "@react-three/fiber";
 import { TextureLoader } from "three/src/loaders/TextureLoader";
 import './index.css';
 import LoginButton from './components/buttons/spotifyLogin.js';
-import Logo from './Images/logo.svg'
+import Logo from './images/logo.svg'
 import Box from "./components/Box";
 const BackgroundImage = '../public/spotifylogo.png';
 
